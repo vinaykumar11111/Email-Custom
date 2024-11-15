@@ -1,6 +1,6 @@
 Custom Email Sending Application
 
-This project is a custom email-sending application developed using React.js. It provides a user-friendly interface for personalizing and sending emails, integrating several APIs for robust email customization and management. Below is a detailed guide to understanding the features and setting up the project.
+This project is a custom email-sending application developed using React.js,Type Script. It provides a user-friendly interface for personalizing and sending emails, integrating several APIs for robust email customization and management. Below is a detailed guide to understanding the features and setting up the project.
 
 Key Features
 
