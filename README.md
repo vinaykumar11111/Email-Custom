@@ -108,5 +108,9 @@ Step 2: Use Supabase functions to update and display the delivery status in real
 
 Conclusion
 
+https://github.com/user-attachments/assets/5732b6ed-5a84-47c3-b431-d8365c9c9132
+
+
+
 This custom email-sending application leverages the power of modern APIs to provide a seamless and personalized emailing experience. Follow the instructions above to set up the APIs and build a complete, functional app.
 
