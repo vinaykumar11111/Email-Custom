@@ -46,7 +46,7 @@ Step 7: Use a package like react-google-login for authentication within your Rea
 
 The Gemini AI API is used to accept and process customizable prompts for personalizing emails. To set up the Gemini AI API:
 
-Step 1: Register on the Gemini AI website and create an account.
+Step 1: Register on the Gemini AI website and create an account or go to Google cloud console
 
 Step 2: Go to the Developer Dashboard and create an API key.
 
